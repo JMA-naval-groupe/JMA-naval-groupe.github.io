@@ -1,0 +1,227 @@
+
+
+
+body{
+	background-color: black;
+}
+#bateau1{
+	
+	border-radius: 8px;
+	display: flex;
+	margin-top: 200px;
+	margin-right: 100px;
+	font-size: 30%;
+}
+
+#bateau2{
+	
+	border-radius: 8px;
+	display: flex;
+	width: 90%;
+	
+	margin-left: 5%;
+	margin-top: 5%;
+	font-size: 90%;
+}
+
+#bat{
+	font-size: 1%;
+	border-radius: 8px;
+	width: 60%;
+}
+
+
+
+
+#TT1{
+	text-align: center	;
+	font-family: Arial Black;
+	color: whitesmoke;
+	margin-top: 50px;
+	font-size: 240%;
+	text-decoration: underline;
+
+
+
+}
+#bt1{
+	color:white;
+	background-color: grey;
+	display: inline;
+	padding: 5px 10px 5px 10px;
+	border-radius: 25px;
+	
+	
+	opacity: 75%;
+	user-select: none;
+	margin: auto;
+
+}
+#bt1:hover{
+	background-color: lightgray;
+
+
+}
+#bt2{
+	color:white;
+	background-color: grey;
+	display: inline;
+	padding: 5px 10px 5px 10px;
+	border-radius: 25px;
+	
+	
+	opacity: 75%;
+	user-select: none;
+	margin: auto;
+
+}
+#bt2:hover{
+	background-color: lightgray;
+
+}
+
+#JMA_LOGO{
+	width: 200px;
+	height: 140px;
+}
+
+#bta1présent{
+	
+	margin: auto;
+
+
+}
+#Divbat1{
+	width: 100%;
+	display: grid;
+	grid-template: auto / auto auto auto;
+	font-size: 50%;
+}
+#centrer{
+	text-align: center;
+	display: flex;
+	margin: auto;
+	padding: 50px 50px ;
+
+}
+	
+#test{
+	margin: auto;
+	text-align: center;
+}
+
+
+
+h1{
+	color: whitesmoke;
+	font-family: Arial Black;
+	text-align: center;
+	font-size: 50px;
+	text-decoration: underline;
+
+}
+h2{
+	color: whitesmoke;
+	text-align: left;
+	font-family: Arial;
+	font-size: 30px;
+}
+
+h3{
+	text-align: left;
+	color: whitesmoke;
+	font-family: Arial	;
+
+}
+
+
+
+
+#PRIX1{
+	display: inline;
+	font-family: Arial Black;
+	font-size:33px ;
+	border:solid 2px whitesmoke;
+;
+
+}
+#Basdepage{
+	text-align: center;
+	font-family: Arial;
+	font-size: 15px;
+	color: whitesmoke;
+
+	
+	
+	
+
+	
+
+
+
+
+}
+
+
+#Basdepage2{
+	text-align: left;
+	font-family: Arial Black;
+	font-size: 18px;
+	color: whitesmoke;
+	text-decoration: underline;
+
+}
+#Conseiller{
+	width: 300px;
+	height: 400px;
+}
+#bateau7{
+	width: 140px;
+	height: 140px;
+	user-select: none;
+	
+	margin-left: 70%;
+
+}
+
+#TT12{
+	text-align: center	;
+	
+	color: darkred;
+	margin-top: 50px;
+	font-size: 240%;
+	text-decoration: underline;
+
+}
+
+#commande{
+		text-align: center	;
+	
+	color: whitesmoke;
+	margin-top: 50px;
+	font-size: 240%;
+	text-decoration: underline;
+}
+
+#s{
+	text-align: center;
+	display: flex;
+	width: 100%;
+}
+
+#c{
+	text-align: center;
+	display: block;
+	background-color: darkred;
+	color: black;	
+	width: 10%;
+}
+
+#coo{
+	opacity: 100%;
+}
+
+#imagewave{
+	position: absolute;
+	z-index: 10;
+}
